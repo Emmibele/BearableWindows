@@ -7,7 +7,12 @@ A collection of tips and tricks to make windows (10) more useable
   - On a **wired connection**: Don't plug the ethernet cable in (or unplug before proceeding)
 2. ==TODO== or read the instructions on screen an follow those that do **not** lead to a microsoft/online account or _make your experience better_
 ### When adding an additional account
-Add Account &rarr; I do not know their login details
+1. Add someone else to this PC
+2. **How will this person sign in?** 
+  - click `I don't have this person's sign-in information`
+3. **Create account**
+  - click `Add a user without a Microsoft account`
+4. continue with account creation
 ## Disable "Finish Setting Up Windows"
 1. Press >>win<< + >>i<< or open settings
 2. Go to **System**
